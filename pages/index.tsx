@@ -9,6 +9,7 @@ const Home: NextPage = () => {
       </Head>
       <main>
         <h1>Coming to Terms</h1>
+        <h2>Latest articles</h2>
       </main>
     </div>
   )
